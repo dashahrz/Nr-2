@@ -1,0 +1,10 @@
+Bug Report
+Reporter - Name
+Assignee - Name
+Severity - Blocker, Critical, Major, Minor, Trivial
+Priority - High, Medium, Low
+Environment - Browser, OC version
+Description - What Where When
+Steps to reproduce - 1,2,3..
+Actual result - Real
+Expected result - According to the documentation
